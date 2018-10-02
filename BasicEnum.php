@@ -5,7 +5,8 @@
  * Date: 02.10.2018
  * Time: 15:10
  */
-
+ 
+ 
 
 abstract class BasicEnum {
     private static $constCacheArray = NULL;
